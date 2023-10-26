@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Homework_06_07.Data</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AngleSharp" Version="1.0.2" />
+	</ItemGroup>
+
+
+</Project>
